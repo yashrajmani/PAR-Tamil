@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481677195352",
+    "project_id": "par-tamil-bcc98",
+    "storage_bucket": "par-tamil-bcc98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481677195352:android:9f31d0d800fc8271de322d",
+        "android_client_info": {
+          "package_name": "com.yrm.par_tamil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481677195352-unssnrfknvi2smpiiu6qk3mmvs0idfv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8Lhy7CAsI7BV4pa1LQPmZxkXl9BqvPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481677195352-unssnrfknvi2smpiiu6qk3mmvs0idfv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
